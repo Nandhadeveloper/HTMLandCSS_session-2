@@ -1,0 +1,14 @@
+body{
+    font-family: 'Lato', sans-serif;
+    background-color: antiquewhite;
+}
+
+h1{
+    color: red;
+    background-color: aquamarine;
+}
+
+p{
+   font-size: 20px;
+    
+}
